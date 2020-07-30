@@ -6,7 +6,7 @@
 
 I'm a Web developer, but also know about Cross-Platform Mobile App Development and did some practices in iOS.
 
-- 🔭 I’m currently studying Bachelor's Degree in Computer Engineering
+- 🔭 I’m currently studying Bachelor's Degree in Computer Engineering in UAB
 - 🌱 I’m currently learning c++ and phyton
 <!--- 👯 I’m looking to collaborate on ...
  - 🤔 I’m looking for help with ... -->
