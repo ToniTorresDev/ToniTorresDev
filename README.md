@@ -11,7 +11,7 @@ I'm a Web developer, but also know about Cross-Platform Mobile App Development a
 <!--- 👯 I’m looking to collaborate on ...
  - 🤔 I’m looking for help with ... -->
 - 💬 Ask me about new challenges, develomments, new technologies.
-- 📫 How to reach me: toninotor5@gmail.com / tonitorrescuenca.com
+- 📫 How to reach me: tonitorres.dev@gmail.com / tonitorrescuenca.com
 <!--
 - 😄 Pronouns: ...
 - ⚡ Fun fact:
