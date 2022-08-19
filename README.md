@@ -16,7 +16,7 @@
   </a>
 </p>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=ToniTorresDev" alt="tonitorresdev" />
+
 
 - :office: &nbsp;I'm currently working at **[Aduxia Consulting, S.L.]**
 - :seedling: &nbsp;I’m currently learning **Dart** and **Flutter**
