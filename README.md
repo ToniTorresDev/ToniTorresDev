@@ -11,7 +11,7 @@
   <a href="https://www.linkedin.com/in/tonitorresprogramador/">
     <img alt="Linkedin profile" src="https://img.shields.io/badge/Linkedin-profile-9cf?logo=linkedin">
   </a>
-  <a href="https://tonitorrescuenca.com">
+  <a href="https://tonitorrescuenca.com](https://tonitorresdev.netlify.app/">
     <img alt="Personal website" src="https://img.shields.io/badge/My%20website-Dev-blueviolet">
   </a>
 </p>
@@ -93,4 +93,4 @@
 
 [aduxia consulting, s.l.]: https://www.aduxia.com/ "Aduxia Consulting"
 [linkedin]: https://www.linkedin.com/in/tonitorresprogramador/ "Toni Torres LinkedIn"
-[my website]: https://tonitorrescuenca.com/
+[my website]: https://tonitorresdev.netlify.app/
